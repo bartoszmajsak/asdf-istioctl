@@ -1,0 +1,16 @@
+= asdf-oc
+
+image::https://travis-ci.org/bartoszmajsak/asdf-istioctl.svg?branch=master)[link="https://travis-ci.org/bartoszmajsak/asdf-istioctl"]
+
+istioctl plugin for https://github.com/asdf-vm/asdf[asdf] version manager.
+
+== Install
+
+[source,bash]
+----
+asdf plugin-add istioctl https://github.com/bartoszmajsak/asdf-istioctl.git
+----
+
+== Use
+
+Check out the https://github.com/asdf-vm/asdf#asdf-[asdf README] for instructions on how to install and manage versions of variety of tools it supports.
